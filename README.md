@@ -1,2 +1,2 @@
-# Pyro.jl
-Implementation of pyro in the Julia programming language.
+# sedna
+Implementation of generic hydrdynamics in the Rust programming language.
